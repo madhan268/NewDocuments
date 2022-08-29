@@ -11,7 +11,7 @@ public class Array {
 		a[2] = 30;
 		a[3] = 190;
 		System.out.println(a[2]);
-		
+		System.out.println(a[3]);
 //		number of value in array
 		
 		int le = a.length;
